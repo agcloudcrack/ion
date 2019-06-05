@@ -1,2 +1,2 @@
 # ion
-First Project_Ion
+Sample Application Template
